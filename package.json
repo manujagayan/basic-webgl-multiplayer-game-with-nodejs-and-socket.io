@@ -1,0 +1,15 @@
+{
+  "name": "unity-socketio-testserver",
+  "version": "1.0.0",
+  "description": "The SocketIO testserver for the unity3d socketio package",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DasPeTe (daspetemail@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^2.2.0"
+  }
+}
